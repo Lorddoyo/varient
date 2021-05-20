@@ -43,10 +43,10 @@ php
 database and server
 
 ## Support and contact details
-You can contact us at my email _johnkojo7777@gmail.com or zenas2294@gmail.com_
+You can contact us at my email _johnkojo7777@gmail.com 
 
 ### License
-MIT License  Copyright (c) 2019 **ADANO GODANA ZENAS MULI MOHAMED MUHUMED RYAN MIANO ROBERT NJAU**
+MIT License  Copyright (c) 2019 **ADANO GODANA**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
