@@ -27,7 +27,7 @@ JS
 * Load gitHub on your browser.
 * Search for Zenas22/.... repository.
 * Fork the data onto your own personal repository
-* [To access the live website, click here](https://Lorddoyo.github.io/varient)
+* [To access the live website, click here](https://Lorddoyo.github.io/varient_master)
 
 
 ## Known Bugs
